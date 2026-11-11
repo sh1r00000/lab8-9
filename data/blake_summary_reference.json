@@ -1,0 +1,11 @@
+{
+  "source": "William Blake Poems, nltk Gutenberg (teropa/nlp mirror)",
+  "tokenization": "[A-Za-z]+(?:['’-][A-Za-z]+)*, lowercase",
+  "stopwords": "scikit-learn ENGLISH_STOP_WORDS frozen to english_stopwords.txt",
+  "words": 6817,
+  "unique": 1548,
+  "after_stopwords": 3592,
+  "unique_after_stopwords": 1384,
+  "top_raw": [["the", 439], ["and", 348], ["of", 146], ["in", 141], ["a", 127], ["i", 125], ["to", 111], ["my", 83], ["with", 66], ["his", 57]],
+  "top_clean": [["little", 45], ["thee", 42], ["like", 35], ["thou", 35], ["thy", 31], ["love", 29], ["night", 28], ["sweet", 28], ["joy", 25], ["away", 24]]
+}
